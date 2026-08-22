@@ -19,4 +19,16 @@ My solutions to LeetCode problems in Java, covering Data Structures, Algorithms,
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Tree
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 <!---LeetCode Topics End-->
