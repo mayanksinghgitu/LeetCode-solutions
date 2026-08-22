@@ -16,8 +16,7 @@ class Solution {
         arr.add(0, m % 10);
         m /= 10;
     }
-    m=Total(arr);
-    if(m%n==0 || n%m==0) return true;
+    if(Total(arr)%n==0 || n%(Total(arr))==0) return true;
     return false;
     }
 }
