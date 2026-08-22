@@ -15,4 +15,8 @@ My solutions to LeetCode problems in Java, covering Data Structures, Algorithms,
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
