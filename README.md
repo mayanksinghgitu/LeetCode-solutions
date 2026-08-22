@@ -15,6 +15,7 @@ My solutions to LeetCode problems in Java, covering Data Structures, Algorithms,
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -35,5 +36,6 @@ My solutions to LeetCode problems in Java, covering Data Structures, Algorithms,
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
