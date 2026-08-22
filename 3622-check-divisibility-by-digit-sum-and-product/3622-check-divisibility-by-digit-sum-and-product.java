@@ -1,17 +1,12 @@
 class Solution {
-    public int Product(ArrayList<Integer> arr){
+    public int Total(ArrayList<Integer> arr){
         int prod=1;
-        for(int x : arr){
-            prod*=x;           
-        }
-        return prod;
-    }
-    public int Sum(ArrayList<Integer> arr){
         int sum=0;
         for(int x : arr){
-           sum+=x;
+            prod*=x;
+            sum+=x;           
         }
-        return sum;
+        return prod+sum;
     }
     public boolean checkDivisibility(int n) {
     if(n<10) return false;
@@ -21,7 +16,8 @@ class Solution {
         arr.add(0, m % 10);
         m /= 10;
     }
-    if((Sum(arr)+Product(arr))%n==0 || n%(Sum(arr)+Product(arr))==0) return true;
+    m=Total(arr);
+    if(m%n==0 || n%m==0) return true;
     return false;
     }
 }
