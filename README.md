@@ -7,6 +7,7 @@ My solutions to LeetCode problems in Java, covering Data Structures, Algorithms,
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0039-combination-sum) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -31,4 +32,8 @@ My solutions to LeetCode problems in Java, covering Data Structures, Algorithms,
 |  |
 | ------- |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
