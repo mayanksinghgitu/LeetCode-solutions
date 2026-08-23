@@ -1,5 +1,5 @@
 # LeetCode-solutions
-My solutions to LeetCode problems in Java, covering Data Structures, Algorithms, and problem-solving concepts.
+A collection of all my Java solutions to LeetCode problems solved from August 21, 2026, to the present, covering Data Structures, Algorithms, and various problem-solving concepts.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
