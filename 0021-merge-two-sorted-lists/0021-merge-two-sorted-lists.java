@@ -4,26 +4,26 @@ class Solution {
             return list2;
         if (list2 == null)
             return list1;
-        ListNode dummy = new ListNode();
-        ArrayList<ListNode> list = new ArrayList<>();
+        ListNode dummy = new ListNode(5);
         ListNode temp1 = list1;
         ListNode temp2 = list2;
-        while (temp1 != null) {
-            list.add(temp1);
-            temp1 = temp1.next;
+        ListNode crr=dummy;
+        while(temp1!=null && temp2!=null){
+            if(temp1.val<temp2.val){
+                ListNode a = new ListNode(temp1.val);
+                crr.next=a;
+                crr=a;
+                temp1=temp1.next;
+            }
+            else{
+                ListNode a = new ListNode(temp2.val);
+                crr.next=a;
+                crr=a;
+                temp2=temp2.next;
+            }
         }
-        while (temp2 != null) {
-            list.add(temp2);
-            temp2 = temp2.next;
-        }
-        Collections.sort(list, (a, b) -> a.val - b.val);
-        ListNode curr = dummy;
-
-        for (int i = 0; i < list.size(); i++) {
-            curr.next = list.get(i);
-            curr = curr.next;
-        }
-        curr.next = null;
-        return dummy.next;
+        if(temp1==null) crr.next=temp2;
+        else crr.next=temp1;
+        return dummy.next;        
     }
 }
