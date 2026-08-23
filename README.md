@@ -22,6 +22,7 @@ My solutions to LeetCode problems in Java, covering Data Structures, Algorithms,
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Tree
 |  |
@@ -46,4 +47,16 @@ My solutions to LeetCode problems in Java, covering Data Structures, Algorithms,
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
