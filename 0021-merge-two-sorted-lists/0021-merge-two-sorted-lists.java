@@ -10,20 +10,18 @@ class Solution {
         ListNode crr=dummy;
         while(temp1!=null && temp2!=null){
             if(temp1.val<temp2.val){
-                ListNode a = new ListNode(temp1.val);
-                crr.next=a;
-                crr=a;
+                crr.next=temp1;
+                crr=temp1;
                 temp1=temp1.next;
             }
             else{
-                ListNode a = new ListNode(temp2.val);
-                crr.next=a;
-                crr=a;
+                crr.next=temp2;
+                crr=temp2;
                 temp2=temp2.next;
             }
         }
         if(temp1==null) crr.next=temp2;
         else crr.next=temp1;
-        return dummy.next;        
+        return dummy.next;
     }
 }
