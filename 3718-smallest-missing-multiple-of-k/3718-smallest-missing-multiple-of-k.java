@@ -3,7 +3,9 @@ class Solution {
         HashSet<Integer> set =new HashSet<>();
         for(int n : nums) set.add(n);
         for(int i=1; i<=nums.length;i++){
-            if(!set.contains(k*i)) return k*i;
+            if(!set.contains(k*i)){
+                return k*i;
+            }
         }
         return k*(nums.length+1);
     }
