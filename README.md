@@ -74,6 +74,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
 | ------- |
@@ -119,4 +120,8 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
