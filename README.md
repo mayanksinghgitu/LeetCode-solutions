@@ -9,6 +9,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0039-combination-sum](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0039-combination-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0704-binary-search](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0704-binary-search) |
+| [1207-unique-number-of-occurrences](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1872-stone-game-viii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1872-stone-game-viii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Backtracking
@@ -69,6 +70,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0141-linked-list-cycle](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [1207-unique-number-of-occurrences](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
