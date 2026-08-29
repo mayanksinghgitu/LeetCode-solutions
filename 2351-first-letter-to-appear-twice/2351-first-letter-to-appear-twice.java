@@ -6,7 +6,7 @@ class Solution {
             if(set.contains(c)) return c;
             set.add(c);
         }
-        return 'a';
+        return ' ';
         
     }
 }
