@@ -41,6 +41,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1872-stone-game-viii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -70,6 +71,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0142-linked-list-cycle-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -115,6 +117,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
