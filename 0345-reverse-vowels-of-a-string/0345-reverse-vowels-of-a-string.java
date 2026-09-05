@@ -25,8 +25,8 @@ class Solution {
                 char temp = arr[csI];
                 arr[csI] = arr[ceI];
                 arr[ceI] = temp;
-                enF=false;
-                stF=false;
+                enF=!enF;
+                stF=!stF;
                 end--;
                 st++;
             }
