@@ -76,6 +76,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0142-linked-list-cycle-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -94,6 +95,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
 | [2351-first-letter-to-appear-twice](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
