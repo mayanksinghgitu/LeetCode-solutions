@@ -9,6 +9,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0039-combination-sum](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -45,6 +46,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1872-stone-game-viii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
@@ -75,6 +77,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0141-linked-list-cycle](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0392-is-subsequence) |
