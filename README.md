@@ -99,6 +99,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
@@ -135,6 +136,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
+| [0115-distinct-subsequences](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [1872-stone-game-viii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1872-stone-game-viii) |
 ## Minimax
