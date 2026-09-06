@@ -1,15 +1,19 @@
 class Solution {
     public int numDistinct(String s, String t) {
-        int n = t.length();
-        long[] dp = new long[n + 1];
-        dp[0] = 1;
-        for (int i = 0; i < s.length(); i++) {
-            for (int j = n; j >= 1; j--) {
-                if (s.charAt(i) == t.charAt(j - 1)) {
-                    dp[j] += dp[j - 1];
-                }
-            }
+        Integer[][] dp = new Integer[s.length()][t.length()];
+        return solve(s, t, 0, 0, dp);
+    }
+
+    private int solve(String s, String t, int i, int j, Integer[][] dp) {
+        if (j == t.length()) return 1;
+        if (i == s.length()) return 0;
+
+        if (dp[i][j] != null) return dp[i][j];
+
+        if (s.charAt(i) == t.charAt(j)) {
+            return dp[i][j] =solve(s, t, i + 1, j + 1, dp) + solve(s, t, i + 1, j, dp);
         }
-        return (int) dp[n];
+
+        return dp[i][j] = solve(s, t, i + 1, j, dp);
     }
 }
