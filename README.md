@@ -82,6 +82,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0345-reverse-vowels-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -102,6 +103,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0115-distinct-subsequences](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
 | [2351-first-letter-to-appear-twice](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -139,6 +141,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0042-trapping-rain-water](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1872-stone-game-viii) |
 ## Minimax
