@@ -6,9 +6,7 @@ class Solution {
             cap+=n;
             max=Math.max(n,max);
         } 
-        int hi=cap;
-        int low=max;
-        int ans=cap;
+        int hi=cap,low=max,ans=cap;
         while(low<=hi){
             int mid=low+(hi-low)/2;
             if(Days(mid,weights)<=days){
@@ -31,7 +29,6 @@ class Solution {
         }
         day++;
         return day;
-
     }
 
 }
