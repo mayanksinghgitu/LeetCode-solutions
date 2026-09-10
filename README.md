@@ -63,16 +63,19 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Two Pointers
 |  |
 | ------- |
