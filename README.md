@@ -16,6 +16,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [1207-unique-number-of-occurrences](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1872-stone-game-viii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1872-stone-game-viii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -104,6 +105,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0160-intersection-of-two-linked-lists](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1207-unique-number-of-occurrences](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
@@ -140,6 +142,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0021-merge-two-sorted-lists](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Union-Find
 |  |
