@@ -55,6 +55,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0002-add-two-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -242,4 +243,8 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0561-array-partition) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
