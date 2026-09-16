@@ -56,6 +56,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0189-rotate-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -165,6 +166,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0392-is-subsequence](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -173,6 +175,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -249,4 +252,8 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
