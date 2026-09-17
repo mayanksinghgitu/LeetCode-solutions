@@ -123,6 +123,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0151-reverse-words-in-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
