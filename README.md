@@ -112,6 +112,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0160-intersection-of-two-linked-lists](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1207-unique-number-of-occurrences](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -129,6 +130,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0434-number-of-segments-in-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -138,6 +140,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0561-array-partition) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
@@ -224,6 +227,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0148-sort-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0561-array-partition) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bit Manipulation
 |  |
