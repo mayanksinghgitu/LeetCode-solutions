@@ -13,6 +13,5 @@ class Solution {
             if(SumDight(nums[i])==i) return i;
         }
         return -1;
-        
     }
 }
