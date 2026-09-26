@@ -25,7 +25,6 @@ class Solution {
             } else {
                 ans.append(arr[i]);
             }
-
         }
         return ans.toString();
     }
