@@ -10,11 +10,9 @@ class Solution {
             }
             else{
                 return CheekPalindrome(st+1,en,s) || CheekPalindrome(st,en-1,s);
-            }
-            
+            } 
         }
         return true;
-        
     }
     public static boolean CheekPalindrome(int st,int en,String s) {
         while(st<en){
