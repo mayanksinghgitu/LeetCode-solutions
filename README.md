@@ -6,6 +6,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -136,6 +137,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0125-valid-palindrome) |
@@ -313,4 +315,8 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
