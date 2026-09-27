@@ -1,4 +1,11 @@
 class Solution {
+    public String StackToString(Stack<Character> stk){
+        StringBuilder sb = new StringBuilder();
+        while (!stk.isEmpty()) {
+            sb.append(stk.pop());
+        }
+        return sb.reverse().toString();
+    }
     public String reverseParentheses(String s) {
         Stack<Character> stk=new Stack<>();
         ArrayList<Character> list =new ArrayList<>();
@@ -21,10 +28,6 @@ class Solution {
                 list.clear();
             }
         }
-        StringBuilder sb = new StringBuilder();
-        while (!stk.isEmpty()) {
-            sb.append(stk.pop());
-        }
-        return sb.reverse().toString();        
+        return StackToString(stk);    
     }
 }
