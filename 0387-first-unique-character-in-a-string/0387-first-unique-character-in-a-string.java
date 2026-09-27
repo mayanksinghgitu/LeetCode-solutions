@@ -13,9 +13,11 @@ class Solution {
         }
         GarBset.clear();
         if(set.isEmpty()) return -1;
-        for(int i=0;i<s.length();i++){
-            if(set.iterator().next()==s.charAt(i)) return i;
-
+         char first = set.iterator().next();
+        for (int i = 0; i < s.length(); i++) {
+            if (first == s.charAt(i)) {
+                return i;
+            }
         }
         return -1;
     }
