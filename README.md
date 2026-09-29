@@ -123,6 +123,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0141-linked-list-cycle](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0383-ransom-note](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -144,6 +145,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0125-valid-palindrome](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0434-number-of-segments-in-a-string) |
@@ -241,6 +243,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2404-most-frequent-even-element) |
