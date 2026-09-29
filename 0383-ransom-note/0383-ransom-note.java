@@ -9,7 +9,7 @@ class Solution {
                 return false;
             }            
             else{
-                map.put(ransomNote.charAt(i),map.getOrDefault(ransomNote.charAt(i),0)-1);
+                map.put(ransomNote.charAt(i),map.get(ransomNote.charAt(i))-1);
             }
         }
         return true;
