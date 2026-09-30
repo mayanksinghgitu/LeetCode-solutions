@@ -154,6 +154,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0647-palindromic-substrings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -233,6 +234,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0042-trapping-rain-water](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -316,6 +318,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0020-valid-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Segment Tree
