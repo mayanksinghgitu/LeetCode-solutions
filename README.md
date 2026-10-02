@@ -9,6 +9,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0014-longest-common-prefix](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -120,6 +121,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -143,6 +145,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -266,6 +269,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0389-find-the-difference) |
