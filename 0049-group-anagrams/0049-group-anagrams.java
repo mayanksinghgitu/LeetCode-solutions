@@ -23,9 +23,11 @@ class Solution {
         }
         StringBuilder st = new StringBuilder("");
         char c = 'a';
-        for (int i : frq) {
-            st.append(c);
-            st.append(i);
+        for(int i : frq){
+            if(i!=0){
+                st.append(c);
+                st.append(i);
+            }
             c++;
         }
         return st.toString();
