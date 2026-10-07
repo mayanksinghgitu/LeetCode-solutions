@@ -38,6 +38,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0039-combination-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0115-distinct-subsequences](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -364,4 +366,8 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1492-the-kth-factor-of-n) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
