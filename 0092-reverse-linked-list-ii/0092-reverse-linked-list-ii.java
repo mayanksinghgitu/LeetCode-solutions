@@ -1,24 +1,43 @@
 class Solution {
-    public ListNode reverseBetween(ListNode head, int left, int right) {
+    public static void reverse(ArrayList<ListNode> list, int left, int right) {
+        left = left - 1;
+        right = right - 1;
 
+        while (left < right) {
+            ListNode temp = list.get(left);
+
+            list.set(left, list.get(right));
+            list.set(right, temp);
+
+            left++;
+            right--;
+        }
+    }
+    public ListNode reverseBetween(ListNode head, int left, int right) {
         if (head == null || head.next == null || left == right)
             return head;
 
         ListNode dummy = new ListNode(0);
-        dummy.next = head;
-        ListNode prev = dummy;
 
-        for (int i = 1; i < left; i++) {
-            prev = prev.next;
-        }
-        ListNode curr = prev.next;
-        for (int i = 0; i < right - left; i++) {
-            ListNode next = curr.next;
+        ArrayList<ListNode> arr = new ArrayList<>();
 
-            curr.next = next.next;
-            next.next = prev.next;
-            prev.next = next;
+        ListNode temp = head;
+
+        while (temp != null) {
+            arr.add(temp);
+            temp = temp.next;
         }
+
+        reverse(arr, left, right);
+
+        temp = dummy;
+
+        for (ListNode n : arr) {
+            temp.next = n;
+            temp = temp.next;
+        }
+
+        temp.next = null;
 
         return dummy.next;
     }
