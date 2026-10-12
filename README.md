@@ -27,6 +27,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [2333-minimum-sum-of-squared-difference](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2404-most-frequent-even-element](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -144,6 +145,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [2062-count-vowel-substrings-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2404-most-frequent-even-element) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -195,6 +197,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
@@ -312,6 +315,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | ------- |
 | [0389-find-the-difference](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
