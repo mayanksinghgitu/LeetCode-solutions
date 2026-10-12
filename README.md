@@ -6,6 +6,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
@@ -128,6 +129,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
