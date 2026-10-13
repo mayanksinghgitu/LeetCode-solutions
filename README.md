@@ -35,6 +35,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [3525-find-x-value-of-array-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -201,6 +202,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [2333-minimum-sum-of-squared-difference](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Game Theory
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
