@@ -27,6 +27,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2404-most-frequent-even-element](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -241,6 +242,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
@@ -324,6 +326,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0389-find-the-difference](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0561-array-partition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
