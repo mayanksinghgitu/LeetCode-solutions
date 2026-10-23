@@ -10,10 +10,9 @@ class Solution {
             }
         }
 
-        if (ans == -1) {
+        if (ans == -1)
             return 0;
-        } else {
-            return ans;
-        }
+        else
+           return ans;
     }
 }
