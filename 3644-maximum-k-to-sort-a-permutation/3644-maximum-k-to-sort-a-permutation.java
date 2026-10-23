@@ -12,7 +12,6 @@ class Solution {
 
         if (ans == -1)
             return 0;
-        else
-           return ans;
+        return ans;
     }
 }
