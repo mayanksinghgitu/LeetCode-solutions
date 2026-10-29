@@ -43,6 +43,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -101,12 +102,14 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -339,6 +343,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [2351-first-letter-to-appear-twice](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -349,6 +354,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | ------- |
 | [0148-sort-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -399,6 +405,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Queue
 |  |
 | ------- |
@@ -424,6 +431,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ternary Search
 |  |
 | ------- |
