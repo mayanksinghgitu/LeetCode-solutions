@@ -203,6 +203,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -302,6 +303,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -378,6 +380,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
 |  |
