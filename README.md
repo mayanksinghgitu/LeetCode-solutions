@@ -42,6 +42,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -265,6 +266,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1872-stone-game-viii) |
 | [3524-find-x-value-of-array-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Minimax
 |  |
 | ------- |
@@ -440,4 +442,8 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3665-twisted-mirror-path-count) |
 <!---LeetCode Topics End-->
