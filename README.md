@@ -15,6 +15,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0704-binary-search) |
@@ -83,6 +84,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0633-sum-of-square-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
