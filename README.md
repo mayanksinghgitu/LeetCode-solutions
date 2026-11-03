@@ -86,6 +86,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0002-add-two-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0504-base-7](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0504-base-7) |
 | [0633-sum-of-square-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -192,6 +193,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0392-is-subsequence](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0504-base-7](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0504-base-7) |
 | [0647-palindromic-substrings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
