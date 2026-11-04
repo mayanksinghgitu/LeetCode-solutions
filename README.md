@@ -255,6 +255,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -461,4 +462,8 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3665-twisted-mirror-path-count) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
