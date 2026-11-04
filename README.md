@@ -86,6 +86,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0504-base-7) |
 | [0633-sum-of-square-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -256,6 +257,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
