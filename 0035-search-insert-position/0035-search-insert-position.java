@@ -5,7 +5,6 @@ class Solution {
         int en=nums.length-1;
         while (st <= en) {
             int mid = st + (en - st) / 2;
-
             if (nums[mid] == target)
                 return mid;
             else if (nums[mid] < target)
