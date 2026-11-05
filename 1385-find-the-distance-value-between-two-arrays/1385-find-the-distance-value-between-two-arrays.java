@@ -3,12 +3,16 @@ class Solution {
         int cnt=0;
         for(int x : arr1){
             int n=0;
+            boolean use=true;
             for(int y : arr2){
-                if(Math.abs(x-y)>d) n++;
-                else break;
+                if(Math.abs(x-y)>d) use=true;
+                else{
+                    use=false;
+                    break;
+                    } 
             }
-            if(n==arr2.length) cnt+=n;
+            if(use) cnt++;
         }
-        return cnt/arr2.length;        
+        return cnt;        
     }
 }
