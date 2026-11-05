@@ -16,6 +16,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0561-array-partition) |
@@ -163,6 +164,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0387-first-unique-character-in-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -355,6 +357,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0148-sort-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0561-array-partition) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
