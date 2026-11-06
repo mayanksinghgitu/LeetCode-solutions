@@ -18,6 +18,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0215-kth-largest-element-in-an-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0456-132-pattern](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0704-binary-search) |
@@ -265,6 +266,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0035-search-insert-position](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
+| [0456-132-pattern](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -314,6 +316,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0739-daily-temperatures) |
@@ -384,6 +387,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
@@ -482,4 +486,8 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0278-first-bad-version) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
