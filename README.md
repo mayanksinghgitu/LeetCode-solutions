@@ -102,6 +102,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
+| [1952-three-divisors](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1952-three-divisors) |
 | [3524-find-x-value-of-array-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -350,6 +351,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -462,10 +464,12 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1952-three-divisors) |
 ## Prime Factorization
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1952-three-divisors) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -492,4 +496,8 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0456-132-pattern) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
