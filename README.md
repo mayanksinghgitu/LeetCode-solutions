@@ -32,6 +32,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -400,6 +401,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
