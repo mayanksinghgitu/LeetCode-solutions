@@ -327,6 +327,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0042-trapping-rain-water](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0456-132-pattern) |
@@ -472,6 +473,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Trie
@@ -526,4 +528,5 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
