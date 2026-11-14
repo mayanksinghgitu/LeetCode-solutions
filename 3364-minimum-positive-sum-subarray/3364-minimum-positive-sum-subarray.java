@@ -1,21 +1,19 @@
 class Solution {
-    public int SumChek(List<Integer> nums){
-        int sum=0;
-        for(int n : nums){
-            sum+=n;
-        }
-        if(sum<1) return Integer.MAX_VALUE;
-        return sum;
+    public int Cheek(int n){
+        if(n<1) return Integer.MAX_VALUE;
+        return n;
     }
     public int minimumSumSubarray(List<Integer> nums, int l, int r) {
         int ans=Integer.MAX_VALUE;
         for(int i=0;i<nums.size();i++){
-            List<Integer> temp=new ArrayList<>();
+            int track=0;
+            int size=0;
             for(int j=i;j < i+r;j++){
                 if(j>=nums.size()) break;
-                temp.add(nums.get(j));
-                if(temp.size()>=l && temp.size()<=r){
-                    ans=Math.min(ans,SumChek(temp));
+                track+=nums.get(j);
+                size++;
+                if(size>=l && size<=r){
+                    ans=Math.min(ans,Cheek(track));
                 }
             }
         }
