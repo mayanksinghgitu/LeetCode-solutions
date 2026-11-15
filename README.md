@@ -124,6 +124,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -131,6 +132,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -138,6 +140,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Two Pointers
@@ -533,4 +536,8 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
