@@ -1,27 +1,46 @@
 
 class Solution {
-    public String shorten(String s, int k) {
-        int sum = 0;
-        StringBuilder ans = new StringBuilder();
+    public ArrayList<Character> StrTOlist(String s) {
+        ArrayList<Character> list = new ArrayList<>();
 
-        for(int i = 0; i < s.length(); i++) {
-            if(i != 0 && i % k == 0) {
-                ans.append(sum);
-                sum = 0;
-            }
-
-            sum += s.charAt(i) - '0';
+        for (int i = 0; i < s.length(); i++) {
+            list.add(s.charAt(i));
         }
 
-        ans.append(sum);
-        return ans.toString();
+        return list;
+    }
+
+    public String shorten(String s, int k) {
+        ArrayList<Character> list = StrTOlist(s);
+
+        while (list.size() > k) {
+            list = helper(list, k);
+        }
+
+        StringBuilder sb = new StringBuilder();
+
+        for (char ch : list) {
+            sb.append(ch);
+        }
+
+        return sb.toString();
     }
 
     public String digitSum(String s, int k) {
-        while(s.length() > k) {
-            s = shorten(s, k);
-        }
+        return shorten(s, k);
+    }
 
-        return s;
+    public ArrayList<Character> helper(ArrayList<Character> list, int k) {
+        StringBuilder ans = new StringBuilder();
+
+        for (int i = 0; i < list.size(); i += k) {
+            int sum = 0;
+
+            for (int j = i; j < Math.min(i + k, list.size()); j++) {
+                sum += list.get(j) - '0';
+            }
+            ans.append(sum);
+        }
+        return StrTOlist(ans.toString());
     }
 }
