@@ -236,6 +236,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [2351-first-letter-to-appear-twice](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
