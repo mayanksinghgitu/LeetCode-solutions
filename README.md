@@ -16,6 +16,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0456-132-pattern) |
@@ -98,6 +99,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0504-base-7) |
@@ -175,6 +177,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0141-linked-list-cycle](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0389-find-the-difference) |
@@ -281,6 +284,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0456-132-pattern) |
@@ -390,6 +394,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [0049-group-anagrams](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0561-array-partition) |
@@ -405,6 +410,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
