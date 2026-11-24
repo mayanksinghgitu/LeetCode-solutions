@@ -49,6 +49,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -112,6 +113,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [1872-stone-game-viii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1952-three-divisors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -367,6 +369,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [2747-count-zero-request-servers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting
 |  |
@@ -382,6 +385,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | ------- |
 | [1952-three-divisors](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Union-Find
@@ -502,6 +506,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1952-three-divisors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prime Factorization
 |  |
 | ------- |
