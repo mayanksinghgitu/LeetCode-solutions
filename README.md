@@ -114,6 +114,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [1872-stone-game-viii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1952-three-divisors) |
+| [3360-stone-removal-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -458,6 +459,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [1929-concatenation-of-array](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
 |  |
