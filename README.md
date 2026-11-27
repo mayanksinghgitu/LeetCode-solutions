@@ -68,6 +68,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [3903-smallest-stable-index-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of all my Java solutions to LeetCode problems solved from August 21
 | [3524-find-x-value-of-array-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/mayanksinghgitu/LeetCode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Minimax
 |  |
 | ------- |
